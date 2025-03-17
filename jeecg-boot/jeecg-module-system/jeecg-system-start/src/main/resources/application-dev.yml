@@ -203,7 +203,7 @@ jeecg:
   ai-chat:
     enabled: true
     model: deepseek-chat
-    apiKey: ??
+    apiKey: sk-12b08f66bbab4a938f00acd033268af2
     apiHost: https://api.deepseek.com
     timeout: 60
   # 平台上线安全配置

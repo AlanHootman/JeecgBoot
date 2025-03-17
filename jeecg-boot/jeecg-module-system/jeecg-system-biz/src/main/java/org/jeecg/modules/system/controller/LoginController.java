@@ -521,6 +521,7 @@ public class LoginController {
 	 * @param response
 	 * @param key
 	 */
+	@CrossOrigin(origins = "*",maxAge = 3600)
 	@ApiOperation("获取验证码")
 	@GetMapping(value = "/randomImage/{key}")
 	public Result<String> randomImage(HttpServletResponse response,@PathVariable("key") String key){
