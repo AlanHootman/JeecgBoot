@@ -25,7 +25,7 @@ JeecgBoot平台的AIGC功能模块，是一套类似`Dify`的`AIGC应用开发�
 > - 对话回复格式美观：
 > 在对话过程中，JEECG AI能够保持回复内容的原格式，也不丢失图片，使得输出的文章更加美观，不会出现格式错乱的情况，还支持图片的渲染。
 > - PDF文档导入与格式转换：
-> JEECG AI在处理PDF文档时，能够更好地保持原始格式和图片，确保转换后的内容与原始文档一致。这哥功能在许多AI产品中表现不佳，而JEECG AI在这方面做出了显著的优化
+> JEECG AI在处理PDF文档时，能够更好地保持原始格式和图片，确保转换后的内容与原始文档一致。这个功能在许多AI产品中表现不佳，而JEECG AI在这方面做出了显著的优化
 
 
 | 功能         | Dify             | Jeecg AI                                |
@@ -63,11 +63,17 @@ JeecgBoot平台的AIGC功能模块，是一套类似`Dify`的`AIGC应用开发�
 
 
 
-## 产品体验
 
-- 使用手册：https://help.jeecg.com/aigc 
-- 演示地址：https://boot3.jeecg.com
+#### 在线体验
 
+- JeecgBoot演示：  https://boot3.jeecg.com
+- 敲敲云在线搭建AI知识库：https://app.qiaoqiaoyun.com
+
+
+## 技术交流
+
+- 开发文档：https://help.jeecg.com/aigc 
+- QQ群：716488839
 
 
 ## 功能列表
